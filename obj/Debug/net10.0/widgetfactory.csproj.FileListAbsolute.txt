@@ -1,0 +1,14 @@
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\bin\Debug\net10.0\widgetfactory.exe
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\bin\Debug\net10.0\widgetfactory.deps.json
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\bin\Debug\net10.0\widgetfactory.runtimeconfig.json
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\bin\Debug\net10.0\widgetfactory.dll
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\bin\Debug\net10.0\widgetfactory.pdb
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\widgetfactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\widgetfactory.AssemblyInfoInputs.cache
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\widgetfactory.AssemblyInfo.cs
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\widgetfactory.csproj.CoreCompileInputs.cache
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\widgetfactory.dll
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\refint\widgetfactory.dll
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\widgetfactory.pdb
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\widgetfactory.genruntimeconfig.cache
+C:\Users\SreelalSS\Desktop\training\csharp\widgetfactory\obj\Debug\net10.0\ref\widgetfactory.dll

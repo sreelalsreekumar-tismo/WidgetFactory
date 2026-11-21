@@ -1,0 +1,220 @@
+
+Widget 1 is created 
+
+Widget 1 Waiting for Machine A 
+widget 1 got machine A at 12:34:44.0516547
+Widget 1 releseed machine A at 12:34:44.1981840
+Widget 1 Waiting for Machine B 
+widget 1 got machine B at 12:34:44.1988462
+
+Widget 2 is created 
+
+Widget 2 Waiting for Machine A 
+widget 2 got machine A at 12:34:44.4188055
+Widget 1 relseed machine B at 12:34:44.5299266
+Widget 1 Waiting for Machine C 
+widget 1 got machine C at 12:34:44.5299426
+Widget 2 releseed machine A at 12:34:44.5614788
+Widget 2 Waiting for Machine B 
+widget 2 got machine B at 12:34:44.5614964
+Widget 1 relseed machine C at 12:34:44.7707686
+
+Widget 1 completed A,B,C   !!!!
+ 
+
+Widget 3 is created 
+
+Widget 3 Waiting for Machine A 
+widget 3 got machine A at 12:34:44.7815708
+Widget 2 relseed machine B at 12:34:44.9136970
+Widget 2 Waiting for Machine C 
+widget 2 got machine C at 12:34:44.9137079
+Widget 3 releseed machine A at 12:34:44.9304127
+Widget 3 Waiting for Machine B 
+widget 3 got machine B at 12:34:44.9304325
+
+Widget 4 is created 
+
+Widget 4 Waiting for Machine A 
+widget 4 got machine A at 12:34:45.0476365
+Widget 2 relseed machine C at 12:34:45.1646508
+
+Widget 2 completed A,B,C   !!!!
+ 
+Widget 4 releseed machine A at 12:34:45.1966440
+Widget 4 Waiting for Machine B 
+
+Widget 5 is created 
+
+Widget 5 Waiting for Machine A 
+widget 5 got machine A at 12:34:45.2979764
+Widget 3 relseed machine B at 12:34:45.2982627
+Widget 3 Waiting for Machine C 
+widget 3 got machine C at 12:34:45.2982744
+widget 4 got machine B at 12:34:45.2982961
+Widget 5 releseed machine A at 12:34:45.4479663
+Widget 5 Waiting for Machine B 
+
+Widget 6 is created 
+
+Widget 6 Waiting for Machine A 
+widget 6 got machine A at 12:34:45.5985854
+Widget 4 relseed machine B at 12:34:45.6500024
+Widget 4 Waiting for Machine C 
+widget 5 got machine B at 12:34:45.6500171
+Widget 3 relseed machine C at 12:34:45.7476130
+
+Widget 3 completed A,B,C   !!!!
+ 
+widget 4 got machine C at 12:34:45.7476311
+Widget 6 releseed machine A at 12:34:45.7476595
+Widget 6 Waiting for Machine B 
+
+Widget 7 is created 
+
+Widget 7 Waiting for Machine A 
+widget 7 got machine A at 12:34:45.8452130
+widget 6 got machine B at 12:34:45.9146569
+Widget 5 relseed machine B at 12:34:45.9146571
+Widget 5 Waiting for Machine C 
+Widget 7 releseed machine A at 12:34:45.9813493
+Widget 7 Waiting for Machine B 
+
+Widget 8 is created 
+
+Widget 8 Waiting for Machine A 
+widget 8 got machine A at 12:34:46.0973980
+Widget 4 relseed machine C at 12:34:46.0973895
+
+Widget 4 completed A,B,C   !!!!
+ 
+widget 5 got machine C at 12:34:46.0976010
+Widget 8 releseed machine A at 12:34:46.2646122
+Widget 8 Waiting for Machine B 
+widget 7 got machine B at 12:34:46.2815179
+Widget 6 relseed machine B at 12:34:46.2815158
+Widget 6 Waiting for Machine C 
+
+Widget 9 is created 
+
+Widget 9 Waiting for Machine A 
+widget 9 got machine A at 12:34:46.4642481
+Widget 5 relseed machine C at 12:34:46.5140611
+
+Widget 5 completed A,B,C   !!!!
+ 
+widget 6 got machine C at 12:34:46.5140734
+Widget 9 releseed machine A at 12:34:46.6478341
+Widget 9 Waiting for Machine B 
+Widget 7 relseed machine B at 12:34:46.6478691
+Widget 7 Waiting for Machine C 
+widget 8 got machine B at 12:34:46.6478814
+
+Widget 10 is created 
+
+Widget 10 Waiting for Machine A 
+widget 10 got machine A at 12:34:46.7980063
+Widget 6 relseed machine C at 12:34:46.8631483
+
+Widget 6 completed A,B,C   !!!!
+ 
+widget 7 got machine C at 12:34:46.8631614
+Widget 8 relseed machine B at 12:34:46.9457339
+Widget 8 Waiting for Machine C 
+widget 9 got machine B at 12:34:46.9457536
+Widget 10 releseed machine A at 12:34:46.9773442
+Widget 10 Waiting for Machine B 
+
+Widget 11 is created 
+
+Widget 11 Waiting for Machine A 
+widget 11 got machine A at 12:34:47.1195889
+Widget 9 relseed machine B at 12:34:47.2304475
+Widget 9 Waiting for Machine C 
+widget 10 got machine B at 12:34:47.2304718
+Widget 11 releseed machine A at 12:34:47.2942678
+Widget 11 Waiting for Machine B 
+
+Widget 12 is created 
+
+Widget 12 Waiting for Machine A 
+widget 12 got machine A at 12:34:47.3580242
+Widget 7 relseed machine C at 12:34:47.3956519
+widget 8 got machine C at 12:34:47.3956625
+
+Widget 7 completed A,B,C   !!!!
+ 
+Widget 12 releseed machine A at 12:34:47.5228884
+Widget 12 Waiting for Machine B 
+widget 11 got machine B at 12:34:47.5229063
+Widget 10 relseed machine B at 12:34:47.5229114
+Widget 10 Waiting for Machine C 
+
+Widget 13 is created 
+
+Widget 13 Waiting for Machine A 
+widget 13 got machine A at 12:34:47.7130798
+Widget 13 releseed machine A at 12:34:47.8403229
+Widget 13 Waiting for Machine B 
+Widget 11 relseed machine B at 12:34:47.8564034
+widget 12 got machine B at 12:34:47.8564039
+Widget 11 Waiting for Machine C 
+
+Widget 14 is created 
+
+Widget 14 Waiting for Machine A 
+widget 14 got machine A at 12:34:47.9979563
+Widget 8 relseed machine C at 12:34:48.0471067
+
+Widget 8 completed A,B,C   !!!!
+ 
+widget 9 got machine C at 12:34:48.0471552
+Widget 14 releseed machine A at 12:34:48.1595699
+Widget 14 Waiting for Machine B 
+Widget 12 relseed machine B at 12:34:48.2227656
+Widget 12 Waiting for Machine C 
+widget 13 got machine B at 12:34:48.2228394
+
+Widget 15 is created 
+
+Widget 15 Waiting for Machine A 
+widget 15 got machine A at 12:34:48.2863763
+Widget 9 relseed machine C at 12:34:48.4286293
+
+Widget 9 completed A,B,C   !!!!
+ 
+widget 10 got machine C at 12:34:48.4286466
+Widget 15 releseed machine A at 12:34:48.4466204
+Widget 15 Waiting for Machine B 
+Widget 13 relseed machine B at 12:34:48.5745564
+Widget 13 Waiting for Machine C 
+widget 14 got machine B at 12:34:48.5745655
+
+Widget 16 is created 
+
+Widget 16 Waiting for Machine A 
+widget 16 got machine A at 12:34:48.6063116
+Widget 10 relseed machine C at 12:34:48.7652915
+
+Widget 10 completed A,B,C   !!!!
+ 
+widget 11 got machine C at 12:34:48.7653085
+Widget 16 releseed machine A at 12:34:48.7813516
+Widget 16 Waiting for Machine B 
+Executed for 4800 milliseconds
+
+Total time at machine A = 2378
+Queue at machine A = [  ]
+Maximum queue length happend to machine A = 1
+
+Total time at machine B = 1904
+Queue at machine B = [ 14 15 16 ]
+Maximum queue length happend to machine B = 3
+
+Total time at machine C = 1462
+Queue at machine C = [ 11 12 13 ]
+Maximum queue length happend to machine C = 4
+
+Total number of fully completed widget = 10
+Avegrate time spend in factory for each completed widget = 1339
+
